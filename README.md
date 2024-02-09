@@ -1,14 +1,14 @@
 App con con las siguientes caracteristicas en el codigo:
 
-- Arquitectura MVVM y clean code
+- Architecture MVVM and clean code
 - Fragments
 - Navigation Component
 - Gradle KTS
-- Inyección de dependencias
-- StateFlow y corrutinas
+- dependency injection
+- StateFlow and coroutines
 - RecyclerView
-- Retrofit, interceptors y mappers
+- Retrofit, interceptors and mappers
 - Intents
 - Camera X
-- Animaciones
+- Animations
 - UnitTest y UITest
